@@ -1,0 +1,3 @@
+Este es un archivo de ejemplo para la tarea de procesamiento de texto.
+Puedes modificar este texto para probar las funciones de lectura, conteo y reemplazo.
+¡Buena suerte!
